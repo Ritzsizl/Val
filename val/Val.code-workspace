@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Valentines-Day-Book-1",
+			"path": ".."
+		},
+		{
+			"name": "val",
+			"path": "../../val"
+		}
+	],
+	"settings": {}
+}
